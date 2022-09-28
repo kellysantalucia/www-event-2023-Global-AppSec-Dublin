@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec San Francisco 2022
+title: Global AppSec Dublin 2023
 layout: event-x
 
 ---

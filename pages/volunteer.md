@@ -6,7 +6,8 @@ permalink: /volunteer/
 
 ---
 
-**If you are interested in Volunteering, please submit your request [HERE](https://owasp.wufoo.com/forms/z10nvp4f0cet8h4/)**.
+TBD - Check back later
+<!-- **If you are interested in Volunteering, please submit your request [HERE](https://owasp.wufoo.com/forms/z10nvp4f0cet8h4/)**.
 
 On behalf of the OWASP Foundation, the conference planning team and everyone attending the conference, we would like to thank you for volunteering at this year’s event. Without volunteers the conference would not run as smoothly and so we rely heavily on your goodwill and assistance.
 
@@ -38,5 +39,5 @@ Global AppSec volunteers are expected to implement the following functions durin
 + Full Conference Passes include: Coffee and lunch on Thursday, Novmeber 17th & Friday, November 18th, access to the conference talks & expo area, social events, and conference activities.
 
 **Event Location** 
-+ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States
++ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States -->
 

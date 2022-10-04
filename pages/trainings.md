@@ -9,7 +9,9 @@ permalink: /trainings/
 
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
 
-## Pricing
+TBD - Check back later
+
+<!-- ## Pricing
 1-day course : $850<br>
 2-day course: $1700<br>
 3-day course: $2550<br>
@@ -39,4 +41,4 @@ San Francisco, California 94111 United States.
 </section>
 {% endfor %}
 {% endif %}
-</section>
+</section> -->
